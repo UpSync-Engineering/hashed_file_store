@@ -1,0 +1,4 @@
+comment = 'Store files on disk using hashed keys in the filesystem.'
+default_version = '0.0.1'
+module_pathname = '$libdir/hashed_file_store
+relocatable = true
